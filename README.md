@@ -1,5 +1,17 @@
 # Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models
 
+## Overall Approach
+
+<p align="center">
+  <img src="assets/ctreeot.png"/>
+</p>
+
+## Alignment Algorithm
+
+<p align="center">
+  <img src="assets/algorithm.png"/>
+</p>
+
 ## Setup
 
 ## Citation
