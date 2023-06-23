@@ -7,8 +7,8 @@ Official code for our paper: ['Conditional Tree Matching for Inference-Time Adap
 ## Overall Approach and Alignment Algorithm
 
 <p align="center">
-  <img src="assets/ctreeot.png"/ width='42%'>
-  <img src="assets/algorithm.png"/ width='42%'>
+  <img src="assets/ctreeot.png"/ height='500rem'>
+  <img src="assets/algorithm.png"/ height='500rem'>
 </p>
 
 ## Setup
