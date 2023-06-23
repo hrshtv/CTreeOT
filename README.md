@@ -4,16 +4,11 @@ Official code for our paper: ['Conditional Tree Matching for Inference-Time Adap
 
 *`Code will be uploaded soon`*
 
-## Overall Approach
+## Overall Approach and Alignment Algorithm
 
 <p align="center">
-  <img src="assets/ctreeot.png"/>
-</p>
-
-## Alignment Algorithm
-
-<p align="center">
-  <img src="assets/algorithm.png"/>
+  <img src="assets/ctreeot.png"/ width='42%'>
+  <img src="assets/algorithm.png"/ width='42%'>
 </p>
 
 ## Setup
