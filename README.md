@@ -1,6 +1,8 @@
 # Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models
 
-Official code for our paper ["Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models"]() to be presented at [ICML 2023](https://icml.cc/).
+Official code for our paper: ['Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models'](https://openreview.net/forum?id=R7X1sTaM6J); to be presented at [ICML 2023](https://icml.cc/).
+
+*`Code will be uploaded soon`*
 
 ## Overall Approach
 
@@ -16,7 +18,7 @@ Official code for our paper ["Conditional Tree Matching for Inference-Time Adapt
 
 ## Setup
 1. Create a virtual environment and activate it
-2. Install PyTorch 1.9.0 for your machine and CUDA version from [here](https://pytorch.org/get-started/previous-versions/#v190)
+2. Install PyTorch 1.11.0 for your machine and CUDA version from [here](https://pytorch.org/get-started/previous-versions/#v1110)
 3. Run `pip install -r requirements.txt`
 
 ## Directory Structure
